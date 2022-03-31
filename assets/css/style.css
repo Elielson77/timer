@@ -61,3 +61,6 @@ form #submit:hover{
 button{
   padding: 5px;
 }
+.pausado{
+  color: red;
+}
